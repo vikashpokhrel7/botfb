@@ -1,1 +1,1 @@
-# botfb
+# fb-chatbot-heroku
